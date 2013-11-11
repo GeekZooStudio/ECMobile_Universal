@@ -5,41 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>39D727D7-AD1D-4811-9DAC-31155F05A3BB</string>
+	<string>32E894CE-3D37-4797-BA21-FB31FD6A60B2</string>
 	<key>IDESourceControlProjectName</key>
 	<string>shop</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>BAAAC5D2-AFDA-46DA-A304-C22D65EA9438</key>
-		<string>svn://geek-zoo.com/project/ecmobile</string>
+		<key>2A075FB3-2CFB-4FAE-9317-8631FC222193</key>
+		<string>https://github.com/GeekZooStudio/ECMobile_iOS.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>branches/ECMobile_iOS_Opensource/shop.xcodeproj/project.xcworkspace</string>
+	<string>iOS/shop.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>BAAAC5D2-AFDA-46DA-A304-C22D65EA9438</key>
-		<string>../../../..</string>
-	</dict>
-	<key>IDESourceControlProjectRepositoryRootDictionary</key>
-	<dict>
-		<key>BAAAC5D2-AFDA-46DA-A304-C22D65EA9438</key>
-		<string>svn://geek-zoo.com/project/ecmobile</string>
+		<key>2A075FB3-2CFB-4FAE-9317-8631FC222193</key>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>svn://geek-zoo.com/project/ecmobile/branches/ECMobile_iOS_Opensource/shop.xcodeproj</string>
+	<string>https://github.com/GeekZooStudio/ECMobile_iOS.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>BAAAC5D2-AFDA-46DA-A304-C22D65EA9438</string>
+	<string>2A075FB3-2CFB-4FAE-9317-8631FC222193</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.subversion</string>
+			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>BAAAC5D2-AFDA-46DA-A304-C22D65EA9438</string>
+			<string>2A075FB3-2CFB-4FAE-9317-8631FC222193</string>
 			<key>IDESourceControlWCCName</key>
-			<string>ecmobile</string>
+			<string>ECMobile_iOS</string>
 		</dict>
 	</array>
 </dict>
