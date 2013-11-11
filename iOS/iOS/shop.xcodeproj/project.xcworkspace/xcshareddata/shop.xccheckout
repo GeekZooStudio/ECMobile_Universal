@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>39D727D7-AD1D-4811-9DAC-31155F05A3BB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>shop</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BAAAC5D2-AFDA-46DA-A304-C22D65EA9438</key>
+		<string>svn://geek-zoo.com/project/ecmobile</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>branches/ECMobile_iOS_Opensource/shop.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BAAAC5D2-AFDA-46DA-A304-C22D65EA9438</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>BAAAC5D2-AFDA-46DA-A304-C22D65EA9438</key>
+		<string>svn://geek-zoo.com/project/ecmobile</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://geek-zoo.com/project/ecmobile/branches/ECMobile_iOS_Opensource/shop.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BAAAC5D2-AFDA-46DA-A304-C22D65EA9438</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BAAAC5D2-AFDA-46DA-A304-C22D65EA9438</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ecmobile</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,73 @@
+/*
+ *                                                                          
+ *       _/_/_/                      _/        _/_/_/_/_/                     
+ *    _/          _/_/      _/_/    _/  _/          _/      _/_/      _/_/    
+ *   _/  _/_/  _/_/_/_/  _/_/_/_/  _/_/          _/      _/    _/  _/    _/   
+ *  _/    _/  _/        _/        _/  _/      _/        _/    _/  _/    _/    
+ *   _/_/_/    _/_/_/    _/_/_/  _/    _/  _/_/_/_/_/    _/_/      _/_/       
+ *                                                                          
+ *
+ *  Copyright 2013-2014, Geek Zoo Studio
+ *  http://www.ecmobile.cn/license.html
+ *
+ *  HQ China:
+ *    2319 Est.Tower Van Palace 
+ *    No.2 Guandongdian South Street 
+ *    Beijing , China
+ *
+ *  U.S. Office:
+ *    One Park Place, Elmira College, NY, 14901, USA
+ *
+ *  QQ Group:   329673575
+ *  BBS:        bbs.ecmobile.cn
+ *  Fax:        +86-10-6561-5510
+ *  Mail:       info@geek-zoo.com
+ */
+
+body{
+	font-size: 14px;
+	width: 750px;
+	margin: 0 auto;
+	padding-top: 20px;
+	color: #00FF00;
+	background-color: black;
+}
+table{
+	border-collapse: collapse;
+	border-spacing: 0;
+	border-color: #808080;
+}
+td{
+	padding: 5px;
+}
+input{
+	border: 1px solid #808080;
+	text-indent: 2px;
+	margin-right: 5px;
+}
+select,textarea{
+	border: 1px solid #808080;
+	background-color: black;
+	color: #00FF00;
+}
+.parms_div{
+	clear: both;
+	width: 100%;
+	margin-bottom: 10px;
+	overflow: hidden;
+}
+.parms_div button{
+	background: #F5F5F1;
+	border: 1px solid #808080;
+	border-radius: 5px;
+	cursor: pointer;
+	height: 30px;
+	width: 60px;
+	text-align: center;
+}
+.parms_div span{
+	float: left;
+}
+.parms_div textarea{
+	font-size: 12px;
+}
