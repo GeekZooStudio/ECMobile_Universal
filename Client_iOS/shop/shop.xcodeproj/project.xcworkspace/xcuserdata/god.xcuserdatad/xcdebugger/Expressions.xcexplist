@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[IndexBoard_iPhone handleUISignal_BeeUIBoard:]:IndexBoard_iPhone.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[BeeLanguageSetting applyLanguage:]:Bee_LanguageSetting.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ServiceAlipay pay]:ServiceAlipay.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.config">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[E1_PendingPaymentBoard_iPhone handleUISignal_E1_PendingPaymentCell_iPhone_ORDER_PAY:]:E1_PendingPaymentBoard_iPhone.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "alipay.config">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BeeLanguageParser parseElement:forLanguage:]:Bee_LanguageParser.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[BeeUIWindow applyFrame]:Bee_UIWindow.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[BeeLanguageParser parseData:]:Bee_LanguageParser.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[BeeLanguageSetting currentLanguage]:Bee_LanguageSetting.m">
+      </ContextState>
+      <ContextState
+         contextName = "+[BeeLanguageSetting setCurrentLanguageName:]:Bee_LanguageSetting.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__28-[BeeUIStyle(Property) TEXT]_block_invoke:BeeUIStyle+Property.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ServiceSiri onError:]:ServiceSiri.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.config">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>91824CD9-0F19-42C5-80B9-EBEFE4729EBD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>shop</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>802580EF-32F3-49A6-AF64-204205E63032</key>
+		<string>https://github.com/GeekZooStudio/ECMobile_iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>shop/shop.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>802580EF-32F3-49A6-AF64-204205E63032</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/GeekZooStudio/ECMobile_iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>802580EF-32F3-49A6-AF64-204205E63032</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>802580EF-32F3-49A6-AF64-204205E63032</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ECMobile_iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
