@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[B0_IndexBoard_iPhone handleUISignal_B0_IndexNotifiBarCell_iPhone_notify:]:B0_IndexBoard_iPhone.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[B0_IndexBoard_iPhone handleUISignal_BeeUIBoard_DID_APPEAR:]:B0_IndexBoard_iPhone.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[AppBoard_iPhone handleUISignal_AppBoard_iPhone_NOTIFY_FORWARD:]:AppBoard_iPhone.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "bee.services.push">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[C0_ShoppingCartCell_iPhone dataDidChanged]:C0_ShoppingCartCell_iPhone.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[BeeUIScrollView setExtInsets:]:Bee_UIScrollView.m">
+      </ContextState>
+      <ContextState
+         contextName = "UIEdgeInsetsFromStringEx:Bee_UIMetrics.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ServiceSiri internalStart]:ServiceSiri.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.config">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BeeUITemplateManager fromResource:]:Bee_UITemplateManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "fileName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ECM_API_APP_CONFIG routine]:ECMobileProtocol.mm">
+      </ContextState>
+      <ContextState
+         contextName = "-[AppDelegate updateConfig]:AppDelegate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "weixin.config">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AppDelegate handleNotification_ECMobileAppConfig_UPDATED:]:AppDelegate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[ECMobileAppConfig sharedInstance]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BeeUIScrollView(LayoutParser) parseLayout:]:BeeUIScrollView+LayoutParser.m">
+      </ContextState>
+      <ContextState
+         contextName = "__72-[E6_ShippingStatusBoard_iPhone handleUISignal_BeeUIBoard_CREATE_VIEWS:]_block_invoke:E6_ShippingStatusBoard_iPhone.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.expressModel.content lastObject]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[C4_InvoiceBoard_iPhone handleUISignal_BeeUINavigationBar_RIGHT_TOUCHED:]:C4_InvoiceBoard_iPhone.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[B2_ProductDetailCell_iPhone dataDidChanged]:B2_ProductDetailCell_iPhone.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[BeeUIScrollView calcInsets]:Bee_UIScrollView.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[NSObject(BeeExtension) performSelectorAlongChainReversed:]:NSObject+BeeExtension.mm">
+      </ContextState>
+      <ContextState
+         contextName = "__23-[AppBoard_iPhone load]_block_invoke_3:AppBoard_iPhone.m">
+      </ContextState>
+      <ContextState
+         contextName = "__65-[C4_InvoiceBoard_iPhone handleUISignal_BeeUIBoard_CREATE_VIEWS:]_block_invoke:C4_InvoiceBoard_iPhone.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BeeUIScrollView setBaseInsets:]:Bee_UIScrollView.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[BeeUITemplateParserXML parse:]:Bee_UITemplateParserXML.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[B1_ProductListBoard_iPhone handleUISignal_BeeUINavigationBar_RIGHT_TOUCHED:]:B1_ProductListBoard_iPhone.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
