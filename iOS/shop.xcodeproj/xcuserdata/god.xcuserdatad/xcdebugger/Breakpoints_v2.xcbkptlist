@@ -41,6 +41,22 @@
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
+            filePath = "shop/generated/ecmobile.mm"
+            timestampString = "415092537.367921"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1309"
+            endingLineNumber = "1309"
+            landmarkName = "DEF_MESSAGE_( goods_desc, msg )"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
             filePath = "ECMobileFramework/ECMobileFramework/framework/system/localization/Bee_LanguageSetting.m"
             timestampString = "415254475.560425"
             startingColumnNumber = "9223372036854775807"
